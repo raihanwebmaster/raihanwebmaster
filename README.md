@@ -14,11 +14,13 @@
 
 ### Connect with me:
 <br />
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Facebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
+[<img align="left" alt="Medium | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/nayan.uddin.39/) 
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://uddinraihan.medium.com/) 
-[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)]()
 <br />
 
 ---
@@ -55,11 +57,15 @@
 [programming]: https://www.programming-hero.com/
 [website]: https://raihanuddin.netlify.app/
 [twitter]: https://raihanuddin.netlify.app/
-[linkedin]: https://raihanuddin.netlify.app/
+[linkedin]: https://www.linkedin.com/in/uddin-raihan/
 [webdevplaylist]: https://raihanuddin.netlify.app/
 [jsplaylist]: https://raihanuddin.netlify.app/
 [cssplaylist]: https://raihanuddin.netlify.app/
 [reactplaylist]: https://raihanuddin.netlify.app/
+[instagram]: https://www.instagram.com/raai_hann/
+[Facebook]: https://www.facebook.com/nayan.uddin.39/
+[Medium]: https://uddinraihan.medium.com/
+
 
 
 
