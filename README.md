@@ -1,5 +1,7 @@
 ### Hi there, I'm  [Raihan Uddin][website] 👋
 
+---
+
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🔭 I’m currently working on Full stack web development.
 - 🌱 I’m currently learning everything 🤣
@@ -39,16 +41,15 @@
 
 <br />
 
-<br />
-<br />
-
 ---
+<br />
 
 <img width="550px" alt="Raihan Uddin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=raihanwebmaster&theme=dark&show_icons=true"/>
 
 ---
+<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanwebmaster&layout=compact)](https://github.com/raihanwebmaster/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanwebmaster&layout=compact&card_width=550)](https://github.com/raihanwebmaster/github-readme-stats)
 
 
 [programming]: https://www.programming-hero.com/
