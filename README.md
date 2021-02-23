@@ -44,7 +44,7 @@
 ---
 <br />
 
-<img width="550px" alt="Raihan Uddin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=raihanwebmaster&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"/>
+<img width="550px" alt="Raihan Uddin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=raihanwebmaster&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=ffffff&bg_color=191919"/>
 
 ---
 <br />
