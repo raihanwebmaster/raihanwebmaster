@@ -49,7 +49,7 @@
 ---
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanwebmaster&layout=compact&card_width=550&bg_color=A9A9A9&title_color=ffffff&text_color=ffffff)](https://github.com/raihanwebmaster/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanwebmaster&layout=compact&card_width=550&bg_color=696969&title_color=ffffff&text_color=ffffff)](https://github.com/raihanwebmaster/github-readme-stats)
 
 
 [programming]: https://www.programming-hero.com/
