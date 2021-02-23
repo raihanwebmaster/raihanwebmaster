@@ -3,7 +3,7 @@
 ---
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
-- 🔭 I’m currently working on Full stack web development.
+- 🔭 I’m currently working on [Full stack web development][website].
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: TypeScript, Next.js, Redux
 - 👯 I’m looking to collaborate on ...
