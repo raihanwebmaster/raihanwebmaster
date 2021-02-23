@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: TypeScript, Next.js, Redux
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about react or any MERN related stuff 
+- 💬 Ask me about React or any MERN related stuff 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to Explore the world
 
@@ -44,7 +44,7 @@
 ---
 <br />
 
-<img width="550px" alt="Raihan Uddin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=raihanwebmaster&theme=dark&show_icons=true"/>
+<img width="550px" alt="Raihan Uddin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=raihanwebmaster&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"/>
 
 ---
 <br />
