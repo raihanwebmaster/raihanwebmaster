@@ -6,8 +6,6 @@
 - 🔭 I’m currently working on [Full stack web development][website].
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: TypeScript, Next.js, Redux
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about React or any MERN related stuff 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to Explore the world
