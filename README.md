@@ -1,3 +1,5 @@
+<img align="left" alt="raihanwebmaster.com" width="450px"  src="https://i.ibb.co/QN9VTQj/Coding-bro.png" />
+
 ### Hi there, I'm  [Raihan Uddin][website] 👋
 
 ---
@@ -5,7 +7,7 @@
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🔭 I’m currently working on [Full stack web development][website].
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: TypeScript, Next.js, Redux
+- 🥅 2021 Goals: TypeScript, Next.js, React Native
 - 💬 Ask me about React or any MERN related stuff 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to Explore the world
