@@ -7,7 +7,7 @@
 ## I'm a 💻 JavaScript Lover 😎 😎 !
 - 🔭 I’m currently working on [Full stack web development][website].
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: TypeScript, Next.js, React Native
+- 🥅 2021 Goals: TypeScript, BlockChain, Smart-Contract, React Native
 - 💬 Ask me about React or any MERN related stuff 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to Explore the world
