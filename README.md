@@ -5,10 +5,10 @@
 ---
 
 ## I'm a 💻 JavaScript Lover 😎 😎 !
-- 🔭 I’m currently working on [Full stack web development][website].
+- 🔭 I’m currently working on Frontend Developer at [Genuino][Genuino].
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: TypeScript, BlockChain, Smart-Contract, React Native
-- 💬 Ask me about React or any MERN related stuff 
+- 🥅 2022 Goals: TypeScript, BlockChain, Smart-Contract, React Native, Vue
+- 💬 Ask me about Frontend or any MERN related stuff 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to Explore the world
 
@@ -77,7 +77,7 @@
 [instagram]: https://www.instagram.com/raai_hann/
 [Facebook]: https://www.facebook.com/nayan.uddin.39/
 [Medium]: https://uddinraihan.medium.com/
-
+[Genuino]:https://genuino.world/
 
 
 
