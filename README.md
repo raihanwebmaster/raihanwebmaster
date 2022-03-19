@@ -5,7 +5,7 @@
 ---
 
 ## I'm a 💻 JavaScript Lover 😎 😎 !
-- 🔭 I’m currently working on Frontend Developer at [Genuino][Genuino]
+- 🔭 I’m currently working as a Frontend Developer at [Genuino][Genuino]
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: TypeScript, BlockChain, Smart-Contract, React Native, Vue
 - 💬 Ask me about Frontend or any MERN related stuff 
