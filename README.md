@@ -68,7 +68,7 @@
 
 [programming]: https://www.programming-hero.com/
 [website]: https://raihanuddin.netlify.app/
-[twitter]: https://raihanuddin.netlify.app/
+[twitter]: https://twitter.com/_raihanuddin_
 [linkedin]: https://www.linkedin.com/in/uddin-raihan/
 [webdevplaylist]: https://raihanuddin.netlify.app/
 [jsplaylist]: https://raihanuddin.netlify.app/
