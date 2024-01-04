@@ -30,9 +30,14 @@
 </p>
 <br />
 
-<h3 align="left">Languages and Tools:</h3>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">⚡ Use To Code ⚡ </h3></summary>
+  </ul>
+</div>
 
-- Frontend
+
+### Frontend
 
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -47,26 +52,26 @@
 ![MUI Badge](https://img.shields.io/badge/-MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![CHAKRAUI](https://img.shields.io/badge/-chakra_ui-319795?style=for-the-badge&logo=chakraui&logoColor=white)
 
-- Backend
+### Backend
 
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 
-- Database
+### Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MARIADB](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-- Cloud Servers
+### Cloud Servers
   
 ![FIREBASE](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 
-- Tools
+### Tools
   
 ![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
