@@ -71,6 +71,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanwebmaster&layout=compact&card_width=500&title_color=00BFFF&text_color=ffffff&bg_color=191919)](https://github.com/raihanwebmaster/github-readme-stats)
 
 
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=raihanwebmaster&theme=high-contrast" />
+
+
 [programming]: https://www.programming-hero.com/
 [website]: https://raihanuddin.netlify.app/
 [twitter]: https://twitter.com/_raihanuddin_
