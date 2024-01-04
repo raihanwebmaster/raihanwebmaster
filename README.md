@@ -1,21 +1,12 @@
 
  
  <a target="_blank" href="https://www.linkedin.com/in/uddin-raihan/"><img src="https://github.com/raihanwebmaster/raihanwebmaster/blob/main/utils/raihanuddin.gif" height="auto"  style="border-radius:1%"></a>
+ <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
- 
-<img align="left" alt="raihanwebmaster.com" width="450px"  src="https://i.ibb.co/QN9VTQj/Coding-bro.png" />
+<h1 align="center">Hi 👋, I'm Raihan Uddin</h1>
+<h3 align="center">A passionate Programmer from Italy</h3>
+<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 
-### Hi there, I'm  [Raihan Uddin][website] 👋
-
----
-
-## I'm a 💻 JavaScript Lover 😎 😎 !
-- 🔭 I’m currently working as a Softwear Developer at [Arteco Global][Genuino]
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: TypeScript, BlockChain, Smart-Contract, React Native, Vue
-- 💬 Ask me about Frontend or any MERN related stuff 
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to Explore the world
 
 ### Connect with me:
 <br />
@@ -63,12 +54,17 @@
 ---
 <br />
 
-<img width="550px" alt="Raihan Uddin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=raihanwebmaster&show_icons=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=191919"/>
+<p  >
+<img width="500px" alt="Raihan Uddin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=raihanwebmaster&show_icons=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=191919"/>
+ <img width="500px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raihanwebmaster&theme=dark" alt="GitHub Contribution"/>
+</p>
 
----
-<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanwebmaster&layout=compact&card_width=500&title_color=00BFFF&text_color=ffffff&bg_color=191919)](https://github.com/raihanwebmaster/github-readme-stats)
+
+<div align="center">
+<img  width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raihanwebmaster&theme=dark"  alt="GitHub Contribution"/>
+ 
+</div>
 
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=raihanwebmaster&theme=high-contrast" />
