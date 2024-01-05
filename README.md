@@ -30,6 +30,26 @@
 </p>
 <br />
 
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/ws7w9kM/Programming-amico.png">
+<br><br>
+
+- 🔭  I’m currently working as a Softwear Developer at [Arteco Global][Arteco]
+
+- 🌱 I’m currently learning **TypeScript Nest.JS Prisma**
+
+-  🥅 2024 Goals: **DOCKER MICROSERVICE AWS DIGITAL-OCEAN**
+  
+-  😄 Pronouns: He/His
+  
+- ⚡ Fun fact: I love to Explore the world
+
+
+
+ <br><br> 
+
+ <br><br> 
+ 
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h3 style="display: inline-block"> ⚡ Tech that's been explored  ⚡ </h3></summary>
@@ -130,7 +150,7 @@
 [instagram]: https://www.instagram.com/raai_hann/
 [Facebook]: https://www.facebook.com/nayan.uddin.39/
 [Medium]: https://uddinraihan.medium.com/
-[Genuino]:https://www.arteco-global.com/en/video-security/
+[Arteco]:https://www.arteco-global.com/en/video-security/
 
 
 
