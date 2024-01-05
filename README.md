@@ -32,6 +32,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/ws7w9kM/Programming-amico.png">
 <br><br>
+  
 
 - 🔭  I’m currently working as a **Software Dev** at [Arteco Global][Arteco]
 
@@ -44,12 +45,11 @@
 - ⚡ Fun fact: I love to Explore the world
 
 
-
  <br><br> 
 
  <br><br> 
 
-  <br><br> 
+
 
 <div id="user-content-toc">
   <ul align="center">
