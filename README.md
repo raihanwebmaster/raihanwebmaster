@@ -38,7 +38,7 @@
 
 
 
-<img width="30" height="30" src="https://img.icons8.com/external-flaticons-lineal-flat-icons/64/external-front-end-computer-programming-flaticons-lineal-flat-icons.png" alt="external-front-end-computer-programming-flaticons-lineal-flat-icons"/> **Frontend**
+ **Frontend**
 
 
 
@@ -54,7 +54,7 @@
 ![MUI Badge](https://img.shields.io/badge/-MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![CHAKRAUI](https://img.shields.io/badge/-chakra_ui-319795?style=for-the-badge&logo=chakraui&logoColor=white)
 
-<img width="30" height="30" src="https://img.icons8.com/external-flaticons-lineal-flat-icons/64/external-backend-computer-programming-flaticons-lineal-flat-icons.png" alt="external-backend-computer-programming-flaticons-lineal-flat-icons"/> **Backend**
+ **Backend**
 
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -67,12 +67,14 @@
 ![POSTGRESQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MARIADB](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-<img width="30" height="30" src="https://img.icons8.com/external-edtim-outline-edtim/50/external-server-hardware-edtim-outline-edtim-3.png" alt="external-server-hardware-edtim-outline-edtim-3"/> **Cloud Servers**
+
+
+**Cloud Servers**
   
 ![FIREBASE](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 
-<img width="30" height="30" src="https://img.icons8.com/laces/64/programming.png" alt="programming"/> **Tools**
+ **Tools**
   
 ![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
