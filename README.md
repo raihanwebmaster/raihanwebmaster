@@ -128,10 +128,18 @@
  <img width="500px"  src="https://awesome-github-stats.azurewebsites.net/user-stats/raihanwebmaster?cardType=github&theme=dark&Icon=FFFFFF&preferLogin=false" alt="GitHub Contribution"/>
 </p>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanwebmaster&layout=compact&bg_color=000000" alt="GitHub Contribution"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=raihanwebmaster&theme=dark&border_radius=5&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri&fire=EB5454&ring=EB5454&currStreakLabel=EB5454&card_width=400" alt="Saif's GitHub streak"/>
+
+
+
+<p align="center">
+  <a href="https://github.com/raihanwebmaster">
+    <img width="355px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanwebmaster&layout=compact&bg_color=000000&text_color=FFFFFF" alt="GitHub Contribution"/>
+  </a>
+  <a href="https://github.com/raihanwebmaster">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=raihanwebmaster&theme=dark&border_radius=5&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri&fire=EB5454&ring=EB5454&currStreakLabel=EB5454" alt="GitHub Contribution"/>
+  </a>
 </p>
+
 
  
 
