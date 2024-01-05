@@ -40,7 +40,7 @@
 
 -  🥅 2024 Goals: **DOCKER MICROSERVICE AWS DIGITAL-OCEAN**
 
- - 💬 Ask me about **React, Redux,  NodeJS, MongoDB, Nest.js, WebRTC, Smart-contract Blockchain**
+ - 💬 Ask me about **React, Redux,  NodeJS, MongoDB, Nest.js, WebRTC**
 
 - 📄 Know about my experiences [my experiences](https://raihanuddin.netlify.app/)
   
