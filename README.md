@@ -31,9 +31,6 @@
 <br />
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/ws7w9kM/Programming-amico.png">
-
-
-<br><br>
 <br><br>
   
 
@@ -46,11 +43,9 @@
 -  😄 Pronouns: He/His
   
 - ⚡ Fun fact: I love to Explore the world
+  
 
-<br><br>
-<br><br>
-
-
+<br>
 <div id="user-content-toc">
   <ul align="center">
     <summary><h3 style="display: inline-block"> ⚡ Tech that's been explored  ⚡ </h3></summary>
