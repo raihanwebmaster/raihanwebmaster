@@ -97,16 +97,19 @@
 <br />
 
 
-<p  >
-<img width="500px" alt="Raihan Uddin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=raihanwebmaster&show_icons=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=191919"/>
- <img width="500px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raihanwebmaster&theme=dark" alt="GitHub Contribution"/>
+<div align="center">
+<img width="500px" src="https://awesome-github-stats.azurewebsites.net/user-stats/raihanwebmaster?cardType=github&theme=dark&Icon=FFFFFF&preferLogin=false" alt="GitHub Contribution"/>
+</div>
+
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=raihanwebmaster&theme=dark&border_radius=5&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu&fire=EB5454&ring=EB5454&currStreakLabel=EB5454" alt="Saif's GitHub streak"/>
+  </a>
 </p>
 
- <img width="500px" src="https://awesome-github-stats.azurewebsites.net/user-stats/raihanwebmaster?cardType=github&theme=dark&Icon=FFFFFF&preferLogin=false" alt="GitHub Contribution"/>
 
 <div align="center">
-<img  width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raihanwebmaster&theme=dark"  alt="GitHub Contribution"/>
- 
+<img  width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raihanwebmaster&theme=dark&Icon=FFFFFF"  alt="GitHub Contribution"/>
 </div>
 
 
