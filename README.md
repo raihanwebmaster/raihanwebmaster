@@ -44,12 +44,9 @@
   
 - ⚡ Fun fact: I love to Explore the world
 
-
  <br><br> 
 
  <br><br> 
-
-
 
 <div id="user-content-toc">
   <ul align="center">
