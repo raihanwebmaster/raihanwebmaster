@@ -125,7 +125,7 @@
 
 
 <p align="center">
- <img width="600px"  src="https://awesome-github-stats.azurewebsites.net/user-stats/raihanwebmaster?cardType=github&theme=dark&Icon=FFFFFF&preferLogin=false" alt="GitHub Contribution"/>
+ <img width="500px"  src="https://awesome-github-stats.azurewebsites.net/user-stats/raihanwebmaster?cardType=github&theme=dark&Icon=FFFFFF&preferLogin=false" alt="GitHub Contribution"/>
 </p>
 
 
