@@ -34,15 +34,17 @@
 <br><br>
   
 
-- 🔭  I’m currently working as a **Software Dev** at [Arteco Global][Arteco]
+- 🔭  I’m currently working as a **Software Dev** at **[Arteco Global][Arteco]**
 
 - 🌱 I’m currently learning **TypeScript Nest.JS Prisma**
 
 -  🥅 2024 Goals: **DOCKER MICROSERVICE AWS DIGITAL-OCEAN**
 
- - 💬 Ask me about **React, Redux,  NodeJS, MongoDB, Nest.js, WebRTC**
+ - 💬 Ask me about **React, NodeJS, MongoDB, Nest.js, WebRTC**
 
-- 📄 Know about my experiences [my experiences](https://raihanuddin.netlify.app/)
+  - 📫 How to reach me **raihanemon2015@gmail.com**
+
+- 📄 Know about **[my experiences](https://raihanuddin.netlify.app/)**
   
 -  😄 Pronouns: He/His
   
