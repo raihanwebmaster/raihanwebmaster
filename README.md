@@ -33,7 +33,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/ws7w9kM/Programming-amico.png">
 <br><br>
 
-- 🔭  I’m currently working as a Softwear Developer at [Arteco Global][Arteco]
+- 🔭  I’m currently working as a **Software Dev** at [Arteco Global][Arteco]
 
 - 🌱 I’m currently learning **TypeScript Nest.JS Prisma**
 
