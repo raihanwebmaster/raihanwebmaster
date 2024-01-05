@@ -32,7 +32,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">⚡ Use To Code ⚡ </h3></summary>
+    <summary><h3 style="display: inline-block"> ⚡ Languages & Tools  ⚡ </h3></summary>
   </ul>
 </div>
 
