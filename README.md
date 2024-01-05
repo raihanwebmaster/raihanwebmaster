@@ -99,7 +99,7 @@
 
 <div align="center >
  <a href="https://github.com/raihanwebmaster"><img width="440"  src="https://awesome-github-stats.azurewebsites.net/user-stats/raihanwebmaster?cardType=github&theme=dark&Icon=FFFFFF&preferLogin=false" alt="GitHub Contribution"/></a>
- <a href="https://github.com/raihanwebmaster"><img src="https://github-readme-streak-stats.herokuapp.com?user=raihanwebmaster&theme=dark&border_radius=5&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu&fire=EB5454&ring=EB5454&currStreakLabel=EB5454&card_width=400" alt="Saif's GitHub streak"/></a>
+ <a href="https://github.com/raihanwebmaster"><img src="https://github-readme-streak-stats.herokuapp.com?user=raihanwebmaster&theme=dark&border_radius=5&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri&fire=EB5454&ring=EB5454&currStreakLabel=EB5454&card_width=400" alt="Saif's GitHub streak"/></a>
 </div>
 
 
